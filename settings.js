@@ -23,11 +23,11 @@ global.APIs = {
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = 'Brad Ora';
-global.owner = ['+254114109450','919863840872'];
+global.owner = ['923201895445','919863840872'];
 global.premium = ['+254114109450','916009516487'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 Brad Ora';
-global.author = 'Brad Ora';
-global.caption = ' 👨‍💻BRAD ORA👨‍💻';
+global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 It,x Jimmy';
+global.author = 'It,x Jimmy';
+global.caption = ' 👨‍💻IT X JIMMY👨‍💻';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
