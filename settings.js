@@ -22,12 +22,12 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94719199757','94703475691'];
-global.premium = ['94719199757','94703475691'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
-global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
+global.ownername = 'Brad Ora';
+global.owner = ['+254114109450','919863840872'];
+global.premium = ['+254114109450','916009516487'];
+global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 Brad Ora';
+global.author = 'Brad Ora';
+global.caption = ' 👨‍💻BRAD ORA👨‍💻';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
